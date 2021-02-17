@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on a new **chatroom platform** [Datlk](https://github.com/kevorkkeheian/datalk)
+- 🔭 I’m currently working on a new **profile** web application [prfl.ga](https://prfl.ga)
 - 🌱 I’m currently learning DataScience
 <!--
 - 👯 I’m looking to collaborate on ...
