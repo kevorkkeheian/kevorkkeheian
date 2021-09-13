@@ -1,25 +1,11 @@
-<h1>Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am <a href="https://github.com/kevorkkeheian">kevork keheian</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"></h1>
-</h1>
+<h2>Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am <a href="https://github.com/kevorkkeheian">kevork keheian</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"></h1>
+</h2>
 
-
-
-# 📬 Let's get connected
-[![Github Badge](https://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/kevorkkeheian/)](https://github.com/kevorkkeheian/) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevorkkeheian/)](https://www.linkedin.com/in/kevorkkeheian)
-[![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/kevorkkeheian)](https://www.hackerrank.com/kevorkkeheian)
-[![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/11684675/kevork)](https://stackoverflow.com/users/11684675/kevork)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kevorkkeheian@gmail.com)](mailto:defcon.kevorkkeheian@gmail.com)
 
 <br/>
 
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  A little about me...  
 I'm an **Undergrad Student🎓 [@AUST](https://aust.edu.lb)** pursuing CSE. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. 
-
-<br/>
-
-# <img src="https://media.giphy.com/media/JrXas5ecb4FkwbFpIE/giphy.gif" width="50"> Reports 
-- #### <img src="https://media.giphy.com/media/d7re818hgHLAYEizLH/giphy.gif" width="30"> [Libanese Lira Rate (Black Market)](https://bit.ly/lirarate)
-- #### <img src="https://media.giphy.com/media/dVuyBgq2z5gVBkFtDc/giphy.gif" width="30"> [COVID-19 (Worldwide)](https://bit.ly/da-covid)
 
 <br/>
 
@@ -37,11 +23,16 @@ I'm an **Undergrad Student🎓 [@AUST](https://aust.edu.lb)** pursuing CSE. I'm 
 <br />
 
 - 👯 I’m looking to collaborate on data science projects
-- 💬 Ask me about C#, Python, Blazor, .NET, DevOps...
+- 💬 Ask me about C#, Python, Blazor, .NET
 - 📝 Check out my [Blog](https://kevork.keheiena.me)
 
 <br/>
 <br/>
+
+# <img src="https://media.giphy.com/media/JrXas5ecb4FkwbFpIE/giphy.gif" width="50"> Reports 
+- #### <img src="https://media.giphy.com/media/d7re818hgHLAYEizLH/giphy.gif" width="30"> [Libanese Lira Rate (Black Market)](https://bit.ly/lirarate)
+- #### <img src="https://media.giphy.com/media/dVuyBgq2z5gVBkFtDc/giphy.gif" width="30"> [COVID-19 (Worldwide)](https://bit.ly/da-covid)
+
 <br/>
   
 # 🖥️ My DevSetup
@@ -97,3 +88,12 @@ I'm an **Undergrad Student🎓 [@AUST](https://aust.edu.lb)** pursuing CSE. I'm 
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=datanalys&repo=lirarate-app&show_owner=true&theme=react" />
     </a>
 </p>
+
+<br/>
+
+# 📬 Let's get connected
+[![Github Badge](https://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/kevorkkeheian/)](https://github.com/kevorkkeheian/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevorkkeheian/)](https://www.linkedin.com/in/kevorkkeheian)
+[![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/kevorkkeheian)](https://www.hackerrank.com/kevorkkeheian)
+[![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/11684675/kevork)](https://stackoverflow.com/users/11684675/kevork)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kevorkkeheian@gmail.com)](mailto:defcon.kevorkkeheian@gmail.com)
